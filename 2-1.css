@@ -1,0 +1,106 @@
+#main1 {
+    display: flex;
+    width: 841px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    padding-top: 136px;
+    padding-right: 865px;
+    padding-bottom: 630px;
+    padding-left: 214px;
+}
+
+#logo{
+    display: flex;
+padding: 13.489px;
+
+gap: 2.698px;
+}
+#navigation {
+    display: flex;
+    width: 980px;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+#header {
+    width: 720px;
+    color: #323232;
+    font-family: Impact;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 74px;
+}
+
+#main1-1 {
+    align-self: stretch;
+    color: #323232;
+    font-family: "Inria Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+#main1-2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    width: 204px;
+    padding: 16px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #5C3BAE;
+}
+
+#joinnow {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+#main1-3 {
+    width: 32.013px;
+    height: 32.013px;
+    flex-shrink: 0;
+}
+
+#main1-4 {
+    color: #4D3491;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+}
+
+#cards {
+    display: flex;
+    width: 1311px;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--radius-2xl, 16px);
+    background: var(--Colors-Background-bg-secondary, #FAFAFA);
+}
